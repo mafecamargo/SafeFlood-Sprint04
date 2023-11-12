@@ -9,3 +9,11 @@ Além disso, ao aumentar a conscientização sobre os riscos de enchentes e prom
 https://fiapcom-my.sharepoint.com/:p:/g/personal/rm97956_fiap_com_br/Ea7g0RSlwclGsL-ZmFB2AnIBn_UooVSiVNONsGb-1Op5yQ?e=KwmTfG
 # Link para visualizar o circuito com o ESP-32: <br>
 https://wokwi.com/projects/380675588769496065
+
+# Elementos do circuito: <br>
+- 1 ESP-32 <br>
+- 1 Sensor Ultrassônico (echo_pin 21; trig_pin 19) <br>
+- 1 DHT (pin_dht 12) <br>
+- 1 LED Vermelho (red_led 4) <br>
+- 1 LED Amarelo (yellow_led 2) <br>
+- 1 LED Verde (green_led 15) <br>
